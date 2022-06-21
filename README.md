@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wojtek!
-- 🌱 I’m currently learning Swift and Java ;)
+- 🌱 iOS Developer
 
 <!---
 wspaleniak/wspaleniak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
