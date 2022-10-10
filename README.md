@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wojtek!
-- 🌱 iOS Developer
+- 💻📲 iOS Developer
 
 <!---
 wspaleniak/wspaleniak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
